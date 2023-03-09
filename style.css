@@ -1,0 +1,171 @@
+body {
+    background-color: #0A0A0A;
+    min-width: 800px; 
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px; /* or any desired maximum width */
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  p.logo {
+    position: absolute;
+    width: 63px;
+    height: 28px;
+    left: 275px;
+    top: 0px;
+  
+    font-family: 'Abril Fatface', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+  
+    color: #FFFFFF;
+  }
+  
+  p.dot {
+    position: absolute;
+    width: 312px;
+    height: 28px;
+    left: 327px;
+    top: 0px;
+  
+    font-family: 'Abril Fatface', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+  
+    color: #860BDA;
+  }
+  
+  hr {
+    position: absolute;
+    width: 1369px;
+    height: 0px;
+    left: 275px;
+    top: 82px;
+  
+    border: 1px solid #FFFFFF;
+  }
+  
+  p.hello{
+    position: absolute;
+    width: 782px;
+    height: 114px;
+    left: 381px;
+    top: 205px;
+  
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 130px;
+    line-height: 141px;
+  
+    color: #FFFFFF;
+  }
+  
+  p.name {
+    position: absolute;
+    width: 1374px;
+    height: 125px;
+    left: 273px;
+    top: 320px;
+  
+  
+    font-family: 'Baskervville';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 125px;
+    line-height: 162px;
+    text-align: center;
+  
+    color: #860BDA;
+  }
+  
+  p.ais {
+    position: absolute;
+    width: 1061px;
+    height: 114px;
+    left: 448px;
+    top: 445px;
+  
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 130px;
+    line-height: 141px;
+  
+    color: #FFFFFF;
+  }
+  
+  img.holo{
+    position: absolute;
+    width: 798px;
+    height: 1142px;
+    left: 561px;
+    top: -62px;
+  }
+  
+  div.hs {
+    position: absolute;
+    width: 92px;
+    height: 30px;
+    left: 1317px;
+    top: 32px;
+  
+    background: #FFFFFF;
+    border-radius: 20px;
+  }
+  
+  p.m1 {
+    position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 1338px;
+    top: 22px;
+  
+    font-family: 'Archivo', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 18px;
+    text-align: center;
+  
+    color: #000000;
+  }
+  
+  p.m2 {
+    position: absolute;
+    width: 50px;
+    height: 16px;
+    left: 1457px;
+    top: 22px;
+  
+    font-family: 'Archivo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 18px;
+  
+    color: #FFFFFF;
+  }
+  
+  p.m3 {
+    position: absolute;
+    width: 78px;
+    height: 16px;
+    left: 1552px;
+    top: 22px;
+  
+    font-family: 'Archivo', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 18px;
+  
+    color: #FFFFFF;
+  }  
